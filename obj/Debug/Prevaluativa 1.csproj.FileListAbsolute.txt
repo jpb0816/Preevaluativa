@@ -1,0 +1,7 @@
+C:\Users\neito\source\repos\Prevaluativa 1\Prevaluativa 1\bin\Debug\Prevaluativa 1.exe.config
+C:\Users\neito\source\repos\Prevaluativa 1\Prevaluativa 1\bin\Debug\Prevaluativa 1.exe
+C:\Users\neito\source\repos\Prevaluativa 1\Prevaluativa 1\bin\Debug\Prevaluativa 1.pdb
+C:\Users\neito\source\repos\Prevaluativa 1\Prevaluativa 1\obj\Debug\Prevaluativa 1.csprojAssemblyReference.cache
+C:\Users\neito\source\repos\Prevaluativa 1\Prevaluativa 1\obj\Debug\Prevaluativa 1.csproj.CoreCompileInputs.cache
+C:\Users\neito\source\repos\Prevaluativa 1\Prevaluativa 1\obj\Debug\Prevaluativa 1.exe
+C:\Users\neito\source\repos\Prevaluativa 1\Prevaluativa 1\obj\Debug\Prevaluativa 1.pdb
